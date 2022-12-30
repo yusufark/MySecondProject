@@ -1,3 +1,5 @@
 Hello from Intellij
 
 another line from Github
+
+with this line I fixed bug #1
